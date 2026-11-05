@@ -28,4 +28,6 @@ export const INSPECTOR_OPTIONS: InspectorOption[] = [
   { value: 'Jhonatan Idarraga', label: 'Jonathan Idarraga' },
   { value: 'Kevin Johan Morales', label: 'Kevin Johan Morales'},
   { value: 'Vidalvis Quintana', label: 'Vidalvis Quintana'},
+   { value: 'Adrian Felipe Sanchez', label: 'Adrian Felipe Sanchez'},
+  { value: 'Darlinton Jair Mozquera', label: 'Darlinton Jair Mozquera'},
 ];
