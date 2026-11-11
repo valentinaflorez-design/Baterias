@@ -205,7 +205,7 @@ Recibe todos los registros (sin distinción de tipo), los inserta en su hoja `DA
 La lista está en `src/modules/constants/inspectionOptions.ts` → `INSPECTOR_OPTIONS`.
 Para agregar o quitar inspectores, editar ese array y redesplegar.
 
-Activos: Luis Leal, Ferley Perez, Jhonatan Idarraga, Kevin Johan Morales, Vidalvis Quintana.
+Activos: Luis Leal, Ferley Perez, Jhonatan Idarraga, Kevin Johan Morales, Vidalvis Quintana, Darlinton Jair Mozquera, Adrian Felipe Sanchez.
 
 ---
 
